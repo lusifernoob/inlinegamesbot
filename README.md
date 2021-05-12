@@ -4,6 +4,10 @@ A Telegram bot that provides real-time multiplayer games that can be played in a
 
 You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me/inlinegamesbot).
 
+#Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 #### Currently available games:
 
 - Tic-Tac-Toe
